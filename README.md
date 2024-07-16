@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The Power BI report consists of 3 pages. On page one the growth of different vehicle classes can be compared between different areas. On the second page there is a map visualization highlighting the areal differences in the vehicle stock growth. On the last page the data can be viewed through a moving average filter.
+The Power BI report consists of 3 pages. On page one the growth of different vehicle classes can be compared between different areas. On the second page there is a map visualization highlighting the areal differences in the vehicle stock growth. On the last page the data can be viewed through a moving average filter. The data is from <a href="https://pxdata.stat.fi:443/PxWeb/sq/1ab3d1df-5822-4fd9-a3e0-17917df251b3"> StatFin</a>.
 <br />
 
 
